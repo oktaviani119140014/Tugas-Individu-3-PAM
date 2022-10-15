@@ -1,5 +1,5 @@
-# Tugas-Individu-3-PAM
+# Tugas-Individu-3-PAM 
 
-Nama  : Oktaviani
-NIM   : 119140014
-Kelas : RB
+Oktaviani-119140014
+
+
